@@ -2,7 +2,7 @@
 
 ## Introduction
 
-SGMiner fork for Hawaii cards - can be used for others, but it might suck.
+Fork of SGMiner 5 for mining Neoscrypt on Hawaii cards (may be used with others, but it also may suck.)
 
 ## Configuration
 Example NeoScrypt conf file for 270X, 290X, and 290X (in that order), is in neoscrypt.conf. It is my own.
