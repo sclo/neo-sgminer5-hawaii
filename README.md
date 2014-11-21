@@ -11,4 +11,5 @@ Oh, and GPU_FORCE_64BIT_PTR MUST be 0 or undefined.
 
 ## Donations
 BTC: 1WoLFumNUvjCgaCyjFzvFrbGfDddYrKNR
-FTC: 6gD49TDWtSseGno9Hi17XahzejF1BKAtSb
+
+FTC: 72WoLFBCMyajX7GA8QaPa9VyzEyZRck51H
